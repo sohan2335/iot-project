@@ -1,0 +1,8 @@
+.local/
+node_modules/
+**/secrets.h
+.env
+.env.*
+!.env.example
+.openai/
+*.tar.gz
